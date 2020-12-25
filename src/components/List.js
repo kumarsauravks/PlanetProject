@@ -40,7 +40,6 @@ class List extends Component {
             //     favArray.push(planet);
             // }
             // console.log(favArray.length);
-            // localStorage.setItem("data",JSON.stringify(favArray));   
             
             
             
